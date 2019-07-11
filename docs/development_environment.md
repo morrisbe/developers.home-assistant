@@ -2,7 +2,7 @@
 title: "Set up Development Environment"
 ---
 
-You'll need to set up a development environment if you want to develop a new feature or component for Home Assistant. Read on to learn how to set up.
+You'll need to set up a development environment if you want to develop a new feature or component for Home Assistant. Read on to learn how to set it up.
 
 ## Preparing your environment
 
@@ -27,7 +27,7 @@ Additional dependencies exist if you plan to perform Frontend Development, pleas
 
 ### Developing on Windows
 
-Due to Home Assistant is mainly designed and developed on Linux distributions, on Windows 10 you can setup a [Linux subsystem](https://docs.microsoft.com/windows/wsl/install-win10).
+Due to how Home Assistant is mainly designed and developed on Linux distributions, on Windows 10 it is recomended to setup a [Linux subsystem](https://docs.microsoft.com/windows/wsl/install-win10). This will allow you to develop just like you would on Linux.
 
 Open Powershell as an Administrator and run
 
